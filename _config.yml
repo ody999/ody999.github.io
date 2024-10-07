@@ -12,7 +12,7 @@ title                    : "Home"
 # title_separator          : "-"
 name                     : &name "Weisi Yang"
 description              : &description "personal description"
-url                      : https://ody999.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : ody999 # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ody/ody.github.io"
 

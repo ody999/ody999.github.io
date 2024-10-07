@@ -14,4 +14,4 @@ B.Eng. in Computer Science and Technology, University of Electronic Science and 
 
 News
 ======
-[Oct, 2024] Personal webpage online, stay tuned for more!
+[Oct 2024] Personal webpage online, stay tuned for more!

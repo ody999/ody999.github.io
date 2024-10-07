@@ -5,9 +5,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-About me
-======
 Hi, Weisi is here! I am a first year Ph.D. student from Electrical and Computer Engineering, Northwestern University.
 
 News

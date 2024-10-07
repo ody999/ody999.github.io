@@ -21,7 +21,7 @@ repository               : "ody/ody.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "avatar.png"
+  avatar           : "avatar.jpg"
   name             : "Weisi Yang"
   # pronouns         : # example: "she/her"  
   bio              : "ECE Ph.D. Student, Northwestern University"

@@ -5,7 +5,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi, Weisi is here! I am a first-year Ph.D. student from Electrical and Computer Engineering, Northwestern University.
+Hi, Weisi is here! I am a first-year Ph.D. student from Electrical and Computer Engineering, Northwestern University. My advisor is [Prof. Stephen Xia](http://www.stephenxia.com/).
+
+My research focuses on creating innovative cyber-physical systems that seamlessly integrate sensing with artificial intelligence. By harnessing the power of AI, I aim to design systems that interpret real-world environments and provide impactful services to improve everyday life.
+
+Before joining Northwestern, I earned my Bachelor of Engineering degree from Yingcai Honors College at UESTC in the summer of 2024.
 
 **Education**
 ======

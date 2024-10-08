@@ -13,7 +13,7 @@ My research focuses on creating innovative cyber-physical systems that seamlessl
 ======
 - **B.Eng. in Computer Science and Technology, University of Electronic Science and Technology of China (UESTC)**  
   *Sep 2020 – Jun 2024*  
-  Graduated from the Yingcai Honors College.
+  Graduated from Yingcai Honors College.
   
 
 

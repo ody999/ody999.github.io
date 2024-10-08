@@ -21,4 +21,4 @@ My research focuses on creating innovative cyber-physical systems that seamlessl
 
 News
 ======
-[Oct 2024] Personal webpage online, stay tuned for more!
+[Oct 2024] Personal webpage online, stay tuned!
